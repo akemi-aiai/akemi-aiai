@@ -1,14 +1,12 @@
-About me
-- Experience with data analysis and exploratory data analysis (EDA)
-- Strong interest in BI, analytics, and data storytelling
-- Background in SQL, Python, and BI tools
-- Constantly learning and improving analytical skills
+Data Analyst with a background in linguistics and a strong transition into technology and data-driven roles. Experienced in Python-based data analysis, data cleaning, statistical analysis, and data visualization, with hands-on work using relational and non-relational databases.
 
-## Tools & Skills
-- SQL
-- Python (pandas, matplotlib, seaborn)
-- BI & Data Visualization
-- Data Analysis & EDA
+
+### Technical Skills
+- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Keras)
+- **Databases:** SQL, PostgreSQL, MongoDB
+- **Data Analysis & BI:** Power BI, Jupyter Notebook
+- **Machine Learning:** Supervised and unsupervised learning, model evaluation, XGBoost, LightGBM
+
 
 
 <p align="center">
