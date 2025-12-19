@@ -1,4 +1,4 @@
-Hi, I am a data analyst with a background in linguistics from Guangzhou, China. Experienced in Python-based data analysis, data cleaning, statistical analysis, and data visualization.
+## Hi, I am a data analyst with a background in linguistics from Guangzhou, China. Experienced in Python-based data analysis, data cleaning, statistical analysis, and data visualization.
 
 
 
