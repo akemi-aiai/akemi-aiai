@@ -1,2 +1,2 @@
-Hi, I am a data analyst with a background in linguistics from Guangzhou, China.
+Hi, I’m based in Guangzhou with a background in linguistics and a growing focus on machine learning and NLP.
 
